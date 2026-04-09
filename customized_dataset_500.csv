@@ -1,0 +1,501 @@
+Medicine_ID,Medicine_Name,Strength,Use_Case,Alternative,Stock,Dosage_Instruction
+1,Aspirin,10ml,Bacterial Infection,Augmentin,No,1 capsule every 8 hrs
+2,Atorvastatin,10ml,Thyroid Disorder,Propranolol,Yes,1 tablet daily
+3,Clopidogrel,10ml,Stomach Ulcer,Amlodipine,No,1 tablet at night
+4,Insulin,200mg,Diabetes,Levocetirizine,No,1 tablet every 6 hrs
+5,Metoprolol,200mg,Bacterial Infection,Dolo,Yes,1 tablet at night
+6,ORS Solution,150mg,Throat Infection,Famotidine,Yes,1 tablet after meals
+7,Omeprazole,600mg,Heart Disease,Propranolol,Yes,1 tablet daily for 3 days
+8,Losartan,500mg,"Allergy, Cold",Zincovit,Yes,1 tablet daily
+9,Losartan,400mg,"Fever, Headache",Human Mixtard,No,"As directed, sip slowly"
+10,Losartan,10ml,Stomach Ulcer,Famotidine,No,1 tablet daily
+11,Aspirin,200ml,Heart Disease,Dolo,Yes,1 tablet before meals
+12,Aspirin,10mg,Asthma,Human Mixtard,Yes,1 tablet after meals
+13,Metformin,10mg,Diabetes,Famotidine,No,"As directed, sip slowly"
+14,Atorvastatin,400mg,Heart Disease,Augmentin,No,1 tablet daily for 3 days
+15,Pantoprazole,50mg,Thyroid Disorder,Zincovit,Yes,1 tablet at night
+16,Salbutamol,200mg,Throat Infection,Clarithromycin,No,1 tablet at night
+17,Atorvastatin,50mg,Stomach Ulcer,Crocin,No,1 tablet every 6 hrs
+18,Amoxicillin,200mg,Hypertension,Propranolol,Yes,1 tablet after meals
+19,Ranitidine,20ml,Bacterial Infection,Clarithromycin,Yes,As prescribed by doctor
+20,Metoprolol,200mg,"Pain, Inflammation",Dolo,No,"As directed, sip slowly"
+21,Cetirizine,200mg,Acidity,Propranolol,No,1 tablet daily
+22,Omeprazole,500mg,"Fever, Headache",Electral Powder,Yes,"As directed, sip slowly"
+23,Ciprofloxacin,150mg,Hypertension,Levocetirizine,Yes,As prescribed by doctor
+24,Paracetamol,600mg,"Allergy, Cold",Levocetirizine,Yes,1 tablet daily for 3 days
+25,Pantoprazole,400mg,Hypertension,Erythromycin,Yes,As prescribed by doctor
+26,Ciprofloxacin,250mg,Cholesterol Control,Glimepiride,No,1 tablet daily for 3 days
+27,Salbutamol,200ml,Diabetes,Glimepiride,Yes,1 tablet before meals
+28,Insulin,250mg,Hypertension,Levocetirizine,Yes,As prescribed by doctor
+29,Pantoprazole,10mg,Heart Disease,Propranolol,Yes,1 tablet every 6 hrs
+30,Levothyroxine,10ml,Heart Disease,Propranolol,No,1 tablet daily
+31,Clopidogrel,100mg,Hypertension,Zincovit,No,1 tablet daily
+32,Paracetamol,600mg,Hypertension,Amlodipine,Yes,1 tablet after meals
+33,Insulin,500mg,Heart Disease,Amlodipine,No,1 tablet daily
+34,Metoprolol,10mg,Heart Disease,Dolo,No,1 tablet daily for 3 days
+35,Omeprazole,200mg,"Pain, Inflammation",Loratadine,No,1 capsule every 8 hrs
+36,Ibuprofen,400mg,Heart Disease,Propranolol,No,1 tablet daily for 3 days
+37,Ciprofloxacin,10mg,Cholesterol Control,Human Mixtard,Yes,1 tablet daily
+38,Ibuprofen,600mg,Asthma,Dolo,No,1 tablet daily for 3 days
+39,Clopidogrel,150mg,Stomach Ulcer,Zincovit,Yes,1 tablet at night
+40,Levothyroxine,150mg,Thyroid Disorder,Dolo,No,1 tablet after meals
+41,Clopidogrel,600mg,"Fever, Headache",Erythromycin,No,As prescribed by doctor
+42,Insulin,500mg,Acidity,Famotidine,No,1 capsule every 8 hrs
+43,Salbutamol,250mg,Immunity Boost,Crocin,No,1 tablet after meals
+44,Losartan,600mg,Thyroid Disorder,Diclofenac,No,1 tablet every 6 hrs
+45,Ibuprofen,500mg,Acidity,Levocetirizine,No,"As directed, sip slowly"
+46,Ibuprofen,500mg,"Allergy, Cold",Erythromycin,No,1 tablet daily
+47,Aspirin,400mg,Cholesterol Control,Diclofenac,No,1 capsule every 8 hrs
+48,Ranitidine,20ml,Bacterial Infection,Electral Powder,Yes,"As directed, sip slowly"
+49,Ibuprofen,50mg,"Fever, Headache",Levocetirizine,No,1 tablet every 6 hrs
+50,Paracetamol,200ml,Heart Disease,Loratadine,No,1 tablet daily
+51,Losartan,400mg,"Pain, Inflammation",Clarithromycin,Yes,1 tablet before meals
+52,Insulin,200mg,Hypertension,Propranolol,No,1 tablet at night
+53,Paracetamol,150mg,Hypertension,Loratadine,No,1 tablet every 6 hrs
+54,Paracetamol,50mg,Heart Disease,Loratadine,Yes,1 tablet at night
+55,Clopidogrel,100mg,Bacterial Infection,Erythromycin,No,1 tablet at night
+56,Vitamin C,200mg,"Pain, Inflammation",Dolo,Yes,1 tablet at night
+57,Ranitidine,10ml,Stomach Ulcer,Crocin,No,As prescribed by doctor
+58,Insulin,400mg,"Pain, Inflammation",Famotidine,Yes,"As directed, sip slowly"
+59,Metformin,20ml,Diabetes,Propranolol,Yes,1 capsule every 8 hrs
+60,Azithromycin,20ml,Bacterial Infection,Human Mixtard,No,As prescribed by doctor
+61,Paracetamol,200mg,Thyroid Disorder,Dolo,Yes,As prescribed by doctor
+62,Insulin,400mg,"Fever, Headache",Clarithromycin,Yes,1 tablet before meals
+63,Aspirin,10mg,Diabetes,Augmentin,No,1 tablet daily
+64,Amoxicillin,10mg,Diabetes,Clarithromycin,Yes,1 tablet every 6 hrs
+65,Vitamin C,50mg,"Allergy, Cold",Crocin,Yes,1 tablet before meals
+66,Metformin,600mg,"Pain, Inflammation",Augmentin,No,As prescribed by doctor
+67,Salbutamol,200mg,Throat Infection,Zincovit,Yes,1 tablet before meals
+68,Metoprolol,10mg,"Fever, Headache",Diclofenac,Yes,1 capsule every 8 hrs
+69,Salbutamol,20ml,Stomach Ulcer,Amlodipine,Yes,1 tablet daily
+70,Omeprazole,10mg,Bacterial Infection,Crocin,No,"As directed, sip slowly"
+71,Levothyroxine,200mg,Stomach Ulcer,Zincovit,No,As prescribed by doctor
+72,Pantoprazole,600mg,"Allergy, Cold",Zincovit,No,"As directed, sip slowly"
+73,Levothyroxine,200ml,"Pain, Inflammation",Electral Powder,Yes,1 tablet daily
+74,Pantoprazole,200mg,Acidity,Crocin,No,"As directed, sip slowly"
+75,Ciprofloxacin,250mg,Heart Disease,Crocin,No,1 tablet daily
+76,Metformin,600mg,Bacterial Infection,Propranolol,No,1 tablet before meals
+77,Losartan,10ml,Throat Infection,Levocetirizine,Yes,1 capsule every 8 hrs
+78,Losartan,20ml,"Allergy, Cold",Loratadine,Yes,1 tablet daily
+79,Atorvastatin,20ml,Asthma,Crocin,No,1 tablet daily for 3 days
+80,Pantoprazole,100mg,Thyroid Disorder,Amlodipine,No,1 tablet at night
+81,Vitamin C,100mg,Stomach Ulcer,Crocin,No,As prescribed by doctor
+82,Amoxicillin,10mg,Diabetes,Diclofenac,Yes,1 tablet at night
+83,Vitamin C,10ml,Cholesterol Control,Augmentin,No,1 tablet daily
+84,Paracetamol,600mg,Thyroid Disorder,Human Mixtard,Yes,1 tablet before meals
+85,Ibuprofen,10ml,Cholesterol Control,Famotidine,No,1 tablet daily
+86,Insulin,10mg,Hypertension,Diclofenac,Yes,1 tablet daily for 3 days
+87,Pantoprazole,50mg,Diabetes,Glimepiride,Yes,"As directed, sip slowly"
+88,Aspirin,250mg,Asthma,Clarithromycin,Yes,1 tablet at night
+89,Pantoprazole,10ml,Immunity Boost,Loratadine,No,1 tablet daily
+90,Salbutamol,150mg,Stomach Ulcer,Propranolol,Yes,1 tablet before meals
+91,Metformin,400mg,Throat Infection,Propranolol,Yes,As prescribed by doctor
+92,Ciprofloxacin,200mg,Acidity,Clarithromycin,No,1 tablet every 6 hrs
+93,Vitamin C,250mg,Immunity Boost,Augmentin,No,As prescribed by doctor
+94,Salbutamol,50mg,Bacterial Infection,Famotidine,No,1 tablet at night
+95,Metformin,500mg,Immunity Boost,Levocetirizine,No,1 tablet after meals
+96,Cetirizine,20ml,Stomach Ulcer,Famotidine,No,1 tablet after meals
+97,Metoprolol,200mg,Hypertension,Amlodipine,Yes,1 tablet daily for 3 days
+98,Salbutamol,500mg,Asthma,Dolo,Yes,1 tablet daily for 3 days
+99,Losartan,200mg,"Pain, Inflammation",Clarithromycin,Yes,1 tablet daily
+100,Salbutamol,50mg,Asthma,Propranolol,No,1 capsule every 8 hrs
+101,Metoprolol,10ml,"Pain, Inflammation",Loratadine,No,1 capsule every 8 hrs
+102,Metformin,200ml,Stomach Ulcer,Zincovit,Yes,1 capsule every 8 hrs
+103,Metformin,10ml,Diabetes,Propranolol,Yes,1 capsule every 8 hrs
+104,Cetirizine,20ml,Immunity Boost,Loratadine,Yes,1 tablet every 6 hrs
+105,Amoxicillin,250mg,Dehydration,Human Mixtard,No,1 tablet daily
+106,Paracetamol,200mg,Stomach Ulcer,Clarithromycin,No,1 tablet after meals
+107,Insulin,10mg,Thyroid Disorder,Propranolol,Yes,As prescribed by doctor
+108,Vitamin C,400mg,Throat Infection,Loratadine,No,1 tablet at night
+109,Omeprazole,250mg,Asthma,Augmentin,No,1 tablet before meals
+110,Metformin,400mg,"Allergy, Cold",Famotidine,Yes,1 tablet before meals
+111,Vitamin C,50mg,Asthma,Diclofenac,No,1 tablet at night
+112,Omeprazole,200ml,Asthma,Glimepiride,Yes,1 tablet at night
+113,Atorvastatin,500mg,Throat Infection,Electral Powder,Yes,1 tablet daily
+114,Ranitidine,20ml,Throat Infection,Electral Powder,No,1 capsule every 8 hrs
+115,Metoprolol,20ml,Immunity Boost,Crocin,No,1 tablet daily
+116,Aspirin,250mg,"Fever, Headache",Propranolol,No,1 tablet daily
+117,Ciprofloxacin,600mg,Thyroid Disorder,Levocetirizine,No,As prescribed by doctor
+118,Metformin,10ml,"Allergy, Cold",Clarithromycin,Yes,1 tablet daily
+119,Metoprolol,10mg,Stomach Ulcer,Human Mixtard,Yes,1 tablet every 6 hrs
+120,Ciprofloxacin,100mg,"Allergy, Cold",Loratadine,Yes,1 tablet after meals
+121,Cetirizine,100mg,Cholesterol Control,Propranolol,No,1 tablet at night
+122,Insulin,10mg,Cholesterol Control,Levocetirizine,No,1 tablet daily for 3 days
+123,Omeprazole,200mg,Heart Disease,Dolo,No,As prescribed by doctor
+124,Metoprolol,500mg,Stomach Ulcer,Augmentin,No,1 tablet daily
+125,Vitamin C,200mg,"Allergy, Cold",Levocetirizine,No,"As directed, sip slowly"
+126,Pantoprazole,150mg,Asthma,Glimepiride,Yes,1 tablet at night
+127,Clopidogrel,10mg,Heart Disease,Clarithromycin,No,1 tablet after meals
+128,Paracetamol,200mg,Asthma,Crocin,Yes,As prescribed by doctor
+129,Pantoprazole,20ml,Asthma,Amlodipine,No,"As directed, sip slowly"
+130,Omeprazole,10mg,Acidity,Clarithromycin,No,1 capsule every 8 hrs
+131,Levothyroxine,400mg,Cholesterol Control,Amlodipine,Yes,1 tablet daily for 3 days
+132,Pantoprazole,600mg,Acidity,Diclofenac,No,1 tablet before meals
+133,Ciprofloxacin,200mg,Hypertension,Amlodipine,Yes,"As directed, sip slowly"
+134,Pantoprazole,100mg,Thyroid Disorder,Erythromycin,Yes,"As directed, sip slowly"
+135,Losartan,200ml,Stomach Ulcer,Clarithromycin,Yes,As prescribed by doctor
+136,Aspirin,500mg,Stomach Ulcer,Crocin,No,"As directed, sip slowly"
+137,Losartan,100mg,Cholesterol Control,Human Mixtard,Yes,1 tablet every 6 hrs
+138,Aspirin,100mg,Stomach Ulcer,Diclofenac,Yes,1 capsule every 8 hrs
+139,Insulin,150mg,Immunity Boost,Amlodipine,Yes,1 tablet daily
+140,Ranitidine,500mg,Acidity,Amlodipine,Yes,As prescribed by doctor
+141,Paracetamol,150mg,Stomach Ulcer,Loratadine,Yes,1 tablet before meals
+142,Atorvastatin,10ml,Acidity,Zincovit,No,As prescribed by doctor
+143,Paracetamol,200mg,"Fever, Headache",Augmentin,No,1 tablet daily for 3 days
+144,Paracetamol,150mg,Hypertension,Erythromycin,Yes,As prescribed by doctor
+145,Omeprazole,150mg,Diabetes,Amlodipine,Yes,1 tablet at night
+146,Ciprofloxacin,400mg,"Allergy, Cold",Loratadine,No,1 tablet at night
+147,Ibuprofen,100mg,Immunity Boost,Glimepiride,No,1 tablet after meals
+148,Atorvastatin,10ml,"Allergy, Cold",Famotidine,Yes,1 tablet daily for 3 days
+149,Insulin,100mg,Asthma,Crocin,Yes,1 tablet before meals
+150,Pantoprazole,200mg,"Fever, Headache",Levocetirizine,Yes,1 tablet every 6 hrs
+151,Atorvastatin,150mg,Stomach Ulcer,Propranolol,Yes,1 tablet before meals
+152,Atorvastatin,250mg,Thyroid Disorder,Propranolol,No,1 tablet daily
+153,Ranitidine,600mg,"Pain, Inflammation",Famotidine,No,1 tablet before meals
+154,Aspirin,200mg,Hypertension,Diclofenac,No,1 tablet after meals
+155,Ciprofloxacin,250mg,Diabetes,Dolo,Yes,1 tablet every 6 hrs
+156,Clopidogrel,200mg,Dehydration,Glimepiride,No,1 tablet before meals
+157,Levothyroxine,600mg,Bacterial Infection,Diclofenac,Yes,1 tablet after meals
+158,ORS Solution,200ml,Bacterial Infection,Levocetirizine,No,1 tablet at night
+159,Metformin,100mg,Throat Infection,Human Mixtard,Yes,1 tablet daily
+160,Insulin,150mg,Dehydration,Clarithromycin,Yes,1 tablet after meals
+161,ORS Solution,600mg,Hypertension,Human Mixtard,Yes,1 tablet after meals
+162,Aspirin,150mg,Thyroid Disorder,Erythromycin,No,1 tablet after meals
+163,Ranitidine,400mg,Hypertension,Dolo,Yes,As prescribed by doctor
+164,Insulin,250mg,"Allergy, Cold",Electral Powder,No,1 tablet at night
+165,ORS Solution,50mg,Stomach Ulcer,Propranolol,No,1 tablet after meals
+166,Insulin,200mg,Immunity Boost,Erythromycin,Yes,1 capsule every 8 hrs
+167,Clopidogrel,20ml,"Pain, Inflammation",Augmentin,No,1 tablet every 6 hrs
+168,Azithromycin,100mg,Diabetes,Glimepiride,No,1 tablet every 6 hrs
+169,Metoprolol,10ml,Throat Infection,Erythromycin,Yes,1 tablet every 6 hrs
+170,Cetirizine,250mg,Cholesterol Control,Zincovit,No,1 tablet every 6 hrs
+171,Insulin,10mg,"Pain, Inflammation",Erythromycin,Yes,As prescribed by doctor
+172,Losartan,200mg,Acidity,Diclofenac,No,1 tablet after meals
+173,Omeprazole,150mg,"Fever, Headache",Diclofenac,No,1 tablet after meals
+174,Levothyroxine,150mg,Bacterial Infection,Loratadine,No,As prescribed by doctor
+175,Clopidogrel,10ml,Bacterial Infection,Diclofenac,No,1 tablet daily
+176,Vitamin C,150mg,Immunity Boost,Clarithromycin,No,1 tablet at night
+177,Levothyroxine,50mg,Cholesterol Control,Zincovit,Yes,1 tablet before meals
+178,Metoprolol,500mg,Acidity,Famotidine,No,1 tablet daily for 3 days
+179,Metoprolol,100mg,Hypertension,Loratadine,Yes,1 tablet every 6 hrs
+180,Clopidogrel,50mg,Cholesterol Control,Erythromycin,Yes,1 capsule every 8 hrs
+181,Metformin,250mg,Thyroid Disorder,Loratadine,Yes,1 tablet before meals
+182,Ciprofloxacin,100mg,Immunity Boost,Crocin,Yes,1 tablet after meals
+183,Levothyroxine,500mg,Diabetes,Electral Powder,Yes,"As directed, sip slowly"
+184,Azithromycin,200ml,Immunity Boost,Propranolol,No,1 tablet daily for 3 days
+185,Amoxicillin,150mg,Hypertension,Loratadine,Yes,"As directed, sip slowly"
+186,Vitamin C,250mg,Diabetes,Zincovit,No,1 tablet daily for 3 days
+187,Losartan,150mg,Stomach Ulcer,Amlodipine,Yes,1 tablet after meals
+188,Ibuprofen,250mg,Hypertension,Dolo,Yes,1 tablet before meals
+189,Metformin,100mg,Heart Disease,Crocin,Yes,1 capsule every 8 hrs
+190,Atorvastatin,600mg,Dehydration,Electral Powder,Yes,As prescribed by doctor
+191,Atorvastatin,20ml,Stomach Ulcer,Clarithromycin,No,"As directed, sip slowly"
+192,Cetirizine,600mg,Dehydration,Erythromycin,Yes,1 tablet before meals
+193,Omeprazole,100mg,Bacterial Infection,Electral Powder,Yes,1 tablet every 6 hrs
+194,Paracetamol,600mg,Thyroid Disorder,Levocetirizine,Yes,1 tablet every 6 hrs
+195,Metoprolol,200ml,Dehydration,Glimepiride,No,1 tablet daily for 3 days
+196,Levothyroxine,50mg,Hypertension,Propranolol,No,1 tablet every 6 hrs
+197,Amoxicillin,100mg,Stomach Ulcer,Electral Powder,No,1 tablet daily for 3 days
+198,Ibuprofen,400mg,Diabetes,Famotidine,No,1 tablet before meals
+199,Losartan,150mg,Stomach Ulcer,Zincovit,Yes,1 capsule every 8 hrs
+200,Metformin,10mg,Acidity,Zincovit,No,1 capsule every 8 hrs
+201,Azithromycin,400mg,Bacterial Infection,Zincovit,No,1 capsule every 8 hrs
+202,Levothyroxine,50mg,Dehydration,Clarithromycin,No,As prescribed by doctor
+203,Pantoprazole,500mg,Acidity,Erythromycin,Yes,As prescribed by doctor
+204,Amoxicillin,600mg,Bacterial Infection,Electral Powder,Yes,1 tablet at night
+205,Metoprolol,20ml,Hypertension,Loratadine,Yes,1 tablet daily for 3 days
+206,Amoxicillin,50mg,Thyroid Disorder,Clarithromycin,No,1 capsule every 8 hrs
+207,ORS Solution,250mg,Heart Disease,Augmentin,Yes,1 tablet daily
+208,Pantoprazole,400mg,Cholesterol Control,Zincovit,No,1 tablet daily
+209,Cetirizine,600mg,Hypertension,Dolo,Yes,1 tablet before meals
+210,Metformin,400mg,Acidity,Human Mixtard,No,1 tablet daily for 3 days
+211,ORS Solution,10ml,Cholesterol Control,Glimepiride,Yes,1 tablet before meals
+212,Levothyroxine,10mg,"Fever, Headache",Propranolol,No,1 tablet before meals
+213,Ibuprofen,10mg,"Fever, Headache",Human Mixtard,No,1 capsule every 8 hrs
+214,Vitamin C,500mg,Stomach Ulcer,Loratadine,Yes,1 tablet at night
+215,Levothyroxine,200ml,Hypertension,Augmentin,No,1 tablet at night
+216,Atorvastatin,10ml,Diabetes,Glimepiride,Yes,"As directed, sip slowly"
+217,Ranitidine,100mg,"Fever, Headache",Human Mixtard,Yes,1 tablet daily for 3 days
+218,Salbutamol,250mg,Bacterial Infection,Famotidine,No,1 tablet after meals
+219,Amoxicillin,600mg,Immunity Boost,Dolo,Yes,"As directed, sip slowly"
+220,Atorvastatin,10mg,Heart Disease,Propranolol,Yes,1 tablet after meals
+221,Atorvastatin,500mg,"Fever, Headache",Levocetirizine,No,1 tablet at night
+222,Cetirizine,20ml,Thyroid Disorder,Glimepiride,Yes,"As directed, sip slowly"
+223,Cetirizine,10mg,Thyroid Disorder,Amlodipine,Yes,1 tablet at night
+224,Metformin,100mg,Asthma,Human Mixtard,Yes,"As directed, sip slowly"
+225,Vitamin C,200ml,Acidity,Erythromycin,No,1 tablet daily for 3 days
+226,Insulin,200mg,Dehydration,Levocetirizine,No,1 tablet before meals
+227,Clopidogrel,400mg,Throat Infection,Dolo,No,1 tablet after meals
+228,Ciprofloxacin,250mg,Heart Disease,Clarithromycin,Yes,1 tablet after meals
+229,Metformin,600mg,Cholesterol Control,Human Mixtard,Yes,1 tablet before meals
+230,Insulin,50mg,Throat Infection,Propranolol,Yes,1 capsule every 8 hrs
+231,Ciprofloxacin,150mg,Throat Infection,Levocetirizine,Yes,As prescribed by doctor
+232,Cetirizine,100mg,Bacterial Infection,Crocin,No,As prescribed by doctor
+233,ORS Solution,500mg,Immunity Boost,Famotidine,No,1 tablet daily
+234,Azithromycin,200ml,Throat Infection,Glimepiride,Yes,1 tablet every 6 hrs
+235,Pantoprazole,150mg,Acidity,Crocin,Yes,"As directed, sip slowly"
+236,Losartan,100mg,Immunity Boost,Famotidine,No,1 tablet every 6 hrs
+237,Aspirin,10mg,Immunity Boost,Augmentin,Yes,1 tablet every 6 hrs
+238,Metoprolol,10ml,Thyroid Disorder,Famotidine,No,As prescribed by doctor
+239,Pantoprazole,10ml,Stomach Ulcer,Zincovit,No,"As directed, sip slowly"
+240,Metformin,10mg,Stomach Ulcer,Diclofenac,No,"As directed, sip slowly"
+241,Omeprazole,10mg,Immunity Boost,Diclofenac,No,1 tablet at night
+242,Ranitidine,100mg,"Allergy, Cold",Zincovit,No,1 tablet before meals
+243,Ranitidine,10ml,Bacterial Infection,Famotidine,No,1 tablet at night
+244,Losartan,10mg,Hypertension,Crocin,Yes,1 tablet after meals
+245,Omeprazole,20ml,Dehydration,Propranolol,No,1 tablet daily for 3 days
+246,Cetirizine,10ml,Heart Disease,Loratadine,No,1 tablet daily for 3 days
+247,Aspirin,200mg,Heart Disease,Propranolol,Yes,1 tablet after meals
+248,Paracetamol,150mg,Acidity,Human Mixtard,Yes,1 tablet every 6 hrs
+249,Salbutamol,250mg,Diabetes,Zincovit,No,1 tablet daily
+250,Salbutamol,400mg,"Pain, Inflammation",Dolo,Yes,1 capsule every 8 hrs
+251,Salbutamol,250mg,"Allergy, Cold",Propranolol,No,"As directed, sip slowly"
+252,Aspirin,20ml,"Fever, Headache",Clarithromycin,Yes,1 capsule every 8 hrs
+253,Losartan,600mg,Stomach Ulcer,Loratadine,Yes,1 capsule every 8 hrs
+254,ORS Solution,400mg,"Fever, Headache",Augmentin,No,1 tablet daily
+255,Ranitidine,10ml,Asthma,Glimepiride,No,As prescribed by doctor
+256,Pantoprazole,200ml,"Pain, Inflammation",Zincovit,Yes,1 capsule every 8 hrs
+257,Vitamin C,200mg,Thyroid Disorder,Amlodipine,No,1 capsule every 8 hrs
+258,Atorvastatin,250mg,Asthma,Augmentin,Yes,1 tablet before meals
+259,Vitamin C,600mg,Acidity,Erythromycin,Yes,1 tablet before meals
+260,Paracetamol,600mg,Immunity Boost,Zincovit,No,1 tablet daily for 3 days
+261,Ciprofloxacin,200mg,Asthma,Zincovit,Yes,1 tablet at night
+262,Levothyroxine,600mg,Diabetes,Famotidine,Yes,1 tablet after meals
+263,Metoprolol,600mg,Diabetes,Clarithromycin,Yes,1 tablet after meals
+264,Insulin,500mg,Heart Disease,Human Mixtard,No,1 tablet every 6 hrs
+265,Losartan,10ml,Asthma,Diclofenac,No,1 tablet at night
+266,Cetirizine,10mg,"Pain, Inflammation",Erythromycin,Yes,1 tablet daily
+267,Cetirizine,100mg,Cholesterol Control,Dolo,No,1 tablet daily for 3 days
+268,Vitamin C,100mg,Immunity Boost,Glimepiride,No,1 tablet every 6 hrs
+269,Azithromycin,50mg,"Fever, Headache",Clarithromycin,Yes,1 tablet at night
+270,Clopidogrel,10mg,"Pain, Inflammation",Human Mixtard,No,1 tablet at night
+271,Metformin,20ml,Diabetes,Amlodipine,No,1 tablet at night
+272,Aspirin,10ml,Heart Disease,Human Mixtard,No,1 tablet after meals
+273,Clopidogrel,200mg,Asthma,Augmentin,No,"As directed, sip slowly"
+274,Ciprofloxacin,200ml,Thyroid Disorder,Augmentin,No,1 tablet daily for 3 days
+275,Pantoprazole,50mg,Hypertension,Loratadine,No,As prescribed by doctor
+276,Cetirizine,150mg,Thyroid Disorder,Crocin,No,1 tablet at night
+277,Clopidogrel,200mg,Thyroid Disorder,Loratadine,No,1 tablet after meals
+278,Metformin,100mg,Heart Disease,Propranolol,No,1 tablet daily for 3 days
+279,Paracetamol,150mg,Asthma,Amlodipine,No,"As directed, sip slowly"
+280,Azithromycin,600mg,"Pain, Inflammation",Crocin,Yes,1 tablet daily
+281,Azithromycin,200mg,Dehydration,Augmentin,No,1 tablet daily
+282,Cetirizine,250mg,"Pain, Inflammation",Amlodipine,No,1 tablet daily for 3 days
+283,Ranitidine,150mg,Asthma,Propranolol,No,As prescribed by doctor
+284,Salbutamol,400mg,Acidity,Erythromycin,Yes,1 tablet daily for 3 days
+285,Amoxicillin,200mg,Throat Infection,Dolo,Yes,1 tablet every 6 hrs
+286,Amoxicillin,400mg,Heart Disease,Dolo,Yes,1 tablet at night
+287,Paracetamol,400mg,"Pain, Inflammation",Glimepiride,No,1 tablet after meals
+288,Levothyroxine,250mg,"Allergy, Cold",Propranolol,No,1 tablet every 6 hrs
+289,Metoprolol,20ml,Immunity Boost,Propranolol,No,1 tablet at night
+290,Ciprofloxacin,600mg,Hypertension,Zincovit,Yes,1 tablet daily
+291,Atorvastatin,400mg,Immunity Boost,Glimepiride,Yes,1 tablet at night
+292,Ciprofloxacin,200ml,Cholesterol Control,Propranolol,No,1 tablet at night
+293,Amoxicillin,10mg,"Fever, Headache",Levocetirizine,No,1 tablet after meals
+294,Ciprofloxacin,10mg,Bacterial Infection,Levocetirizine,No,1 tablet at night
+295,Metoprolol,200ml,Diabetes,Human Mixtard,No,As prescribed by doctor
+296,Losartan,500mg,Hypertension,Dolo,No,1 tablet before meals
+297,Atorvastatin,20ml,Thyroid Disorder,Propranolol,No,1 tablet before meals
+298,Ranitidine,500mg,Asthma,Glimepiride,Yes,1 capsule every 8 hrs
+299,Cetirizine,250mg,Heart Disease,Zincovit,No,1 tablet daily for 3 days
+300,Metoprolol,20ml,Diabetes,Amlodipine,Yes,1 tablet every 6 hrs
+301,Amoxicillin,50mg,Thyroid Disorder,Propranolol,Yes,1 tablet before meals
+302,Losartan,500mg,Acidity,Famotidine,Yes,1 tablet every 6 hrs
+303,Metoprolol,50mg,"Pain, Inflammation",Erythromycin,Yes,1 tablet every 6 hrs
+304,Salbutamol,50mg,Stomach Ulcer,Zincovit,Yes,As prescribed by doctor
+305,Omeprazole,20ml,Stomach Ulcer,Electral Powder,No,1 tablet every 6 hrs
+306,ORS Solution,10ml,Asthma,Electral Powder,Yes,"As directed, sip slowly"
+307,Ranitidine,10mg,Acidity,Zincovit,Yes,1 tablet at night
+308,Ciprofloxacin,600mg,"Pain, Inflammation",Diclofenac,No,1 tablet at night
+309,Azithromycin,200ml,Acidity,Diclofenac,Yes,1 tablet at night
+310,Salbutamol,10ml,Asthma,Loratadine,Yes,1 tablet at night
+311,Clopidogrel,500mg,Throat Infection,Augmentin,No,1 tablet before meals
+312,Vitamin C,150mg,Hypertension,Loratadine,Yes,1 tablet every 6 hrs
+313,Amoxicillin,600mg,Heart Disease,Famotidine,No,1 capsule every 8 hrs
+314,Omeprazole,50mg,Bacterial Infection,Erythromycin,Yes,1 tablet daily
+315,Levothyroxine,10ml,Immunity Boost,Amlodipine,Yes,1 capsule every 8 hrs
+316,ORS Solution,200ml,Hypertension,Glimepiride,Yes,1 tablet at night
+317,Ranitidine,200mg,Diabetes,Dolo,No,1 tablet every 6 hrs
+318,Losartan,50mg,Throat Infection,Crocin,No,1 tablet daily for 3 days
+319,Pantoprazole,20ml,Hypertension,Amlodipine,Yes,1 tablet daily for 3 days
+320,Vitamin C,50mg,Stomach Ulcer,Erythromycin,Yes,1 tablet every 6 hrs
+321,ORS Solution,10ml,"Pain, Inflammation",Electral Powder,No,As prescribed by doctor
+322,Metoprolol,10mg,Stomach Ulcer,Levocetirizine,Yes,1 tablet daily for 3 days
+323,Clopidogrel,600mg,Bacterial Infection,Erythromycin,Yes,1 tablet after meals
+324,Atorvastatin,20ml,Diabetes,Amlodipine,Yes,As prescribed by doctor
+325,ORS Solution,10mg,Stomach Ulcer,Famotidine,Yes,1 tablet every 6 hrs
+326,Losartan,10ml,Cholesterol Control,Crocin,Yes,1 capsule every 8 hrs
+327,Atorvastatin,10ml,Cholesterol Control,Amlodipine,No,1 tablet daily
+328,Losartan,100mg,Bacterial Infection,Electral Powder,Yes,1 tablet at night
+329,Atorvastatin,100mg,"Pain, Inflammation",Diclofenac,Yes,1 tablet after meals
+330,Azithromycin,10ml,"Fever, Headache",Crocin,Yes,1 tablet at night
+331,Metoprolol,200mg,Acidity,Erythromycin,Yes,1 tablet daily
+332,Salbutamol,600mg,Cholesterol Control,Glimepiride,Yes,1 tablet daily for 3 days
+333,Losartan,20ml,Dehydration,Electral Powder,Yes,As prescribed by doctor
+334,Levothyroxine,100mg,"Pain, Inflammation",Famotidine,Yes,"As directed, sip slowly"
+335,Metoprolol,50mg,Diabetes,Loratadine,Yes,1 tablet after meals
+336,Azithromycin,150mg,"Pain, Inflammation",Glimepiride,Yes,1 tablet daily
+337,Atorvastatin,150mg,Bacterial Infection,Levocetirizine,Yes,As prescribed by doctor
+338,Ranitidine,100mg,Bacterial Infection,Augmentin,Yes,1 tablet daily for 3 days
+339,Aspirin,10mg,Dehydration,Loratadine,Yes,1 tablet at night
+340,Omeprazole,500mg,Hypertension,Augmentin,Yes,1 tablet at night
+341,Ranitidine,400mg,Asthma,Dolo,Yes,1 tablet every 6 hrs
+342,Ciprofloxacin,400mg,Stomach Ulcer,Diclofenac,No,1 tablet daily for 3 days
+343,Omeprazole,200ml,"Pain, Inflammation",Crocin,No,As prescribed by doctor
+344,Ranitidine,10ml,Acidity,Famotidine,Yes,As prescribed by doctor
+345,Atorvastatin,500mg,Acidity,Levocetirizine,No,1 tablet daily for 3 days
+346,Aspirin,200mg,Acidity,Glimepiride,No,1 tablet at night
+347,Metformin,200mg,Heart Disease,Zincovit,Yes,1 tablet after meals
+348,Atorvastatin,600mg,Dehydration,Famotidine,Yes,1 tablet at night
+349,Ibuprofen,20ml,Heart Disease,Levocetirizine,Yes,As prescribed by doctor
+350,Levothyroxine,600mg,Throat Infection,Propranolol,Yes,1 tablet at night
+351,Atorvastatin,600mg,Stomach Ulcer,Augmentin,No,1 tablet before meals
+352,Atorvastatin,150mg,"Fever, Headache",Diclofenac,Yes,1 capsule every 8 hrs
+353,Amoxicillin,10mg,Diabetes,Crocin,Yes,1 capsule every 8 hrs
+354,Pantoprazole,600mg,Cholesterol Control,Diclofenac,No,1 tablet after meals
+355,Clopidogrel,50mg,Hypertension,Levocetirizine,No,1 tablet before meals
+356,Azithromycin,400mg,Heart Disease,Erythromycin,No,1 tablet daily
+357,ORS Solution,400mg,Stomach Ulcer,Erythromycin,No,1 tablet at night
+358,Vitamin C,600mg,Throat Infection,Clarithromycin,No,1 capsule every 8 hrs
+359,Amoxicillin,200mg,Stomach Ulcer,Levocetirizine,No,1 tablet every 6 hrs
+360,Atorvastatin,600mg,Diabetes,Propranolol,Yes,1 tablet after meals
+361,Azithromycin,10ml,"Fever, Headache",Loratadine,Yes,1 tablet before meals
+362,Aspirin,20ml,Stomach Ulcer,Zincovit,No,As prescribed by doctor
+363,Cetirizine,200mg,Diabetes,Human Mixtard,Yes,1 tablet daily for 3 days
+364,Cetirizine,200ml,Heart Disease,Diclofenac,Yes,1 capsule every 8 hrs
+365,Clopidogrel,200ml,Diabetes,Loratadine,No,1 tablet after meals
+366,Losartan,50mg,"Allergy, Cold",Famotidine,Yes,1 tablet daily
+367,Paracetamol,10ml,Bacterial Infection,Human Mixtard,Yes,1 tablet before meals
+368,Insulin,250mg,"Pain, Inflammation",Electral Powder,No,1 tablet daily
+369,Levothyroxine,10mg,"Allergy, Cold",Levocetirizine,Yes,1 tablet at night
+370,Atorvastatin,150mg,Bacterial Infection,Amlodipine,Yes,As prescribed by doctor
+371,Cetirizine,200mg,Stomach Ulcer,Propranolol,No,1 tablet every 6 hrs
+372,Amoxicillin,200mg,Hypertension,Human Mixtard,Yes,1 tablet daily for 3 days
+373,Vitamin C,250mg,Bacterial Infection,Erythromycin,No,1 tablet daily
+374,Ciprofloxacin,200mg,"Allergy, Cold",Erythromycin,Yes,1 tablet every 6 hrs
+375,Salbutamol,600mg,Thyroid Disorder,Electral Powder,No,1 tablet after meals
+376,Metformin,500mg,Thyroid Disorder,Zincovit,No,1 tablet before meals
+377,Atorvastatin,250mg,Bacterial Infection,Diclofenac,Yes,1 tablet after meals
+378,Clopidogrel,600mg,"Pain, Inflammation",Crocin,Yes,As prescribed by doctor
+379,Clopidogrel,150mg,Stomach Ulcer,Clarithromycin,Yes,As prescribed by doctor
+380,Amoxicillin,100mg,Asthma,Loratadine,No,1 tablet daily
+381,Levothyroxine,200mg,Immunity Boost,Loratadine,Yes,1 tablet every 6 hrs
+382,Atorvastatin,20ml,Immunity Boost,Erythromycin,No,1 tablet every 6 hrs
+383,Azithromycin,200ml,Bacterial Infection,Famotidine,No,1 tablet at night
+384,Amoxicillin,150mg,Diabetes,Glimepiride,No,As prescribed by doctor
+385,Azithromycin,200ml,"Pain, Inflammation",Crocin,No,1 tablet daily
+386,Ibuprofen,50mg,Bacterial Infection,Famotidine,Yes,1 tablet at night
+387,Clopidogrel,100mg,"Fever, Headache",Zincovit,No,"As directed, sip slowly"
+388,Cetirizine,50mg,Diabetes,Amlodipine,No,1 tablet before meals
+389,Levothyroxine,10ml,Throat Infection,Levocetirizine,Yes,1 tablet before meals
+390,Ibuprofen,250mg,Immunity Boost,Zincovit,Yes,"As directed, sip slowly"
+391,Salbutamol,600mg,Hypertension,Glimepiride,Yes,1 tablet daily for 3 days
+392,Clopidogrel,500mg,Thyroid Disorder,Crocin,Yes,As prescribed by doctor
+393,Salbutamol,600mg,Bacterial Infection,Electral Powder,Yes,1 tablet daily
+394,Insulin,10mg,"Allergy, Cold",Famotidine,Yes,1 tablet after meals
+395,Clopidogrel,20ml,Bacterial Infection,Clarithromycin,No,As prescribed by doctor
+396,Losartan,600mg,"Pain, Inflammation",Loratadine,Yes,1 tablet daily
+397,Ciprofloxacin,10ml,"Fever, Headache",Augmentin,No,1 tablet before meals
+398,Clopidogrel,600mg,Throat Infection,Loratadine,No,1 tablet at night
+399,Levothyroxine,150mg,Acidity,Loratadine,No,As prescribed by doctor
+400,Paracetamol,10mg,Asthma,Levocetirizine,No,1 tablet at night
+401,Losartan,150mg,Acidity,Levocetirizine,No,1 tablet every 6 hrs
+402,Paracetamol,600mg,"Pain, Inflammation",Glimepiride,Yes,1 tablet after meals
+403,Paracetamol,100mg,Diabetes,Human Mixtard,No,As prescribed by doctor
+404,Clopidogrel,50mg,Heart Disease,Crocin,Yes,1 tablet at night
+405,Clopidogrel,200ml,Throat Infection,Glimepiride,No,1 tablet every 6 hrs
+406,Metformin,100mg,Immunity Boost,Dolo,Yes,1 tablet at night
+407,Losartan,200mg,Throat Infection,Electral Powder,Yes,1 tablet daily for 3 days
+408,Cetirizine,250mg,Immunity Boost,Crocin,Yes,1 tablet after meals
+409,Ibuprofen,10ml,Dehydration,Dolo,Yes,1 tablet at night
+410,Insulin,600mg,Throat Infection,Electral Powder,No,1 tablet before meals
+411,Metformin,10ml,Throat Infection,Famotidine,No,1 tablet at night
+412,Omeprazole,200ml,Asthma,Electral Powder,Yes,As prescribed by doctor
+413,Ranitidine,200mg,"Pain, Inflammation",Electral Powder,Yes,1 tablet every 6 hrs
+414,Clopidogrel,200mg,Asthma,Levocetirizine,No,1 tablet daily
+415,Amoxicillin,600mg,Throat Infection,Glimepiride,Yes,1 tablet every 6 hrs
+416,Atorvastatin,250mg,"Allergy, Cold",Dolo,Yes,1 capsule every 8 hrs
+417,Amoxicillin,250mg,Immunity Boost,Levocetirizine,No,1 tablet every 6 hrs
+418,Clopidogrel,10ml,Diabetes,Diclofenac,Yes,"As directed, sip slowly"
+419,Salbutamol,10mg,Heart Disease,Famotidine,No,1 capsule every 8 hrs
+420,Metformin,500mg,Hypertension,Amlodipine,Yes,1 tablet daily for 3 days
+421,Vitamin C,10ml,Dehydration,Augmentin,Yes,As prescribed by doctor
+422,Insulin,20ml,Acidity,Erythromycin,No,As prescribed by doctor
+423,Salbutamol,10ml,Asthma,Electral Powder,Yes,1 tablet every 6 hrs
+424,Paracetamol,200mg,"Fever, Headache",Zincovit,No,"As directed, sip slowly"
+425,Insulin,500mg,"Allergy, Cold",Crocin,Yes,1 tablet daily
+426,Vitamin C,10mg,"Fever, Headache",Diclofenac,Yes,As prescribed by doctor
+427,Paracetamol,200mg,Hypertension,Augmentin,Yes,1 tablet at night
+428,Ciprofloxacin,10ml,"Pain, Inflammation",Dolo,Yes,1 tablet daily
+429,Salbutamol,150mg,"Allergy, Cold",Diclofenac,No,1 tablet after meals
+430,Ranitidine,500mg,Bacterial Infection,Glimepiride,No,1 tablet before meals
+431,Atorvastatin,10ml,"Allergy, Cold",Levocetirizine,No,As prescribed by doctor
+432,Losartan,10mg,Thyroid Disorder,Loratadine,No,1 tablet at night
+433,Salbutamol,600mg,Dehydration,Loratadine,Yes,1 tablet every 6 hrs
+434,Salbutamol,20ml,"Allergy, Cold",Glimepiride,No,1 tablet every 6 hrs
+435,Ranitidine,250mg,Cholesterol Control,Dolo,No,1 tablet daily
+436,Pantoprazole,400mg,"Fever, Headache",Dolo,No,1 tablet daily
+437,Azithromycin,200mg,Throat Infection,Augmentin,Yes,1 tablet before meals
+438,Omeprazole,50mg,Asthma,Augmentin,No,1 tablet daily for 3 days
+439,Atorvastatin,200ml,"Allergy, Cold",Crocin,Yes,1 tablet at night
+440,Omeprazole,200ml,Throat Infection,Propranolol,No,"As directed, sip slowly"
+441,Ciprofloxacin,200mg,Hypertension,Human Mixtard,No,1 tablet before meals
+442,Vitamin C,50mg,Throat Infection,Clarithromycin,No,1 tablet daily for 3 days
+443,Pantoprazole,600mg,Asthma,Human Mixtard,Yes,1 tablet daily for 3 days
+444,Vitamin C,200ml,"Allergy, Cold",Propranolol,No,As prescribed by doctor
+445,Losartan,100mg,Heart Disease,Levocetirizine,Yes,1 tablet after meals
+446,Omeprazole,150mg,Diabetes,Dolo,Yes,1 tablet after meals
+447,Insulin,400mg,Asthma,Zincovit,No,1 tablet daily
+448,Amoxicillin,50mg,Heart Disease,Electral Powder,No,As prescribed by doctor
+449,Levothyroxine,400mg,Diabetes,Levocetirizine,No,1 tablet every 6 hrs
+450,Atorvastatin,50mg,Diabetes,Electral Powder,No,1 tablet before meals
+451,Pantoprazole,100mg,Heart Disease,Zincovit,No,1 tablet daily for 3 days
+452,Atorvastatin,150mg,Cholesterol Control,Propranolol,Yes,1 tablet at night
+453,Azithromycin,100mg,Stomach Ulcer,Human Mixtard,Yes,As prescribed by doctor
+454,Cetirizine,10mg,Heart Disease,Amlodipine,No,As prescribed by doctor
+455,Levothyroxine,200ml,Stomach Ulcer,Clarithromycin,Yes,"As directed, sip slowly"
+456,Losartan,400mg,Heart Disease,Glimepiride,No,"As directed, sip slowly"
+457,Metformin,10mg,Heart Disease,Glimepiride,No,1 tablet before meals
+458,ORS Solution,250mg,Throat Infection,Zincovit,Yes,1 tablet daily
+459,Aspirin,10ml,Cholesterol Control,Levocetirizine,No,As prescribed by doctor
+460,Pantoprazole,50mg,"Fever, Headache",Zincovit,Yes,"As directed, sip slowly"
+461,Levothyroxine,10mg,Diabetes,Crocin,No,1 tablet before meals
+462,Ranitidine,50mg,"Allergy, Cold",Erythromycin,Yes,1 tablet daily for 3 days
+463,Ranitidine,20ml,Bacterial Infection,Dolo,No,1 tablet daily for 3 days
+464,Paracetamol,250mg,Acidity,Amlodipine,Yes,"As directed, sip slowly"
+465,ORS Solution,200ml,Heart Disease,Amlodipine,No,1 tablet before meals
+466,Salbutamol,100mg,Bacterial Infection,Clarithromycin,Yes,1 tablet every 6 hrs
+467,Azithromycin,100mg,Asthma,Famotidine,No,1 tablet daily
+468,Amoxicillin,500mg,Diabetes,Augmentin,No,1 tablet before meals
+469,Aspirin,200ml,Cholesterol Control,Glimepiride,Yes,1 tablet daily for 3 days
+470,Paracetamol,20ml,"Allergy, Cold",Zincovit,Yes,1 capsule every 8 hrs
+471,Atorvastatin,100mg,Thyroid Disorder,Diclofenac,Yes,1 tablet daily for 3 days
+472,Metformin,20ml,Thyroid Disorder,Diclofenac,No,1 tablet at night
+473,Azithromycin,200ml,"Pain, Inflammation",Loratadine,No,1 tablet after meals
+474,Ciprofloxacin,10mg,Dehydration,Zincovit,Yes,1 tablet daily for 3 days
+475,Azithromycin,10ml,"Fever, Headache",Clarithromycin,No,1 tablet before meals
+476,Levothyroxine,600mg,Diabetes,Levocetirizine,No,1 tablet before meals
+477,Omeprazole,500mg,Bacterial Infection,Levocetirizine,No,1 tablet at night
+478,Aspirin,250mg,Hypertension,Erythromycin,No,1 tablet after meals
+479,Paracetamol,500mg,Bacterial Infection,Electral Powder,No,1 capsule every 8 hrs
+480,Clopidogrel,400mg,Hypertension,Glimepiride,Yes,1 tablet daily for 3 days
+481,Pantoprazole,200ml,Dehydration,Human Mixtard,Yes,1 tablet before meals
+482,Ranitidine,250mg,Stomach Ulcer,Erythromycin,Yes,As prescribed by doctor
+483,Metformin,20ml,Immunity Boost,Clarithromycin,Yes,1 capsule every 8 hrs
+484,Metformin,500mg,"Allergy, Cold",Human Mixtard,Yes,1 tablet daily for 3 days
+485,Ciprofloxacin,600mg,Immunity Boost,Zincovit,Yes,1 tablet every 6 hrs
+486,ORS Solution,500mg,Hypertension,Electral Powder,Yes,1 tablet at night
+487,Ranitidine,200ml,"Fever, Headache",Augmentin,Yes,1 tablet daily
+488,Ranitidine,400mg,Bacterial Infection,Propranolol,Yes,As prescribed by doctor
+489,Aspirin,500mg,Cholesterol Control,Clarithromycin,No,1 tablet after meals
+490,Vitamin C,200mg,Dehydration,Electral Powder,Yes,1 capsule every 8 hrs
+491,Metoprolol,600mg,Immunity Boost,Zincovit,Yes,1 capsule every 8 hrs
+492,Paracetamol,600mg,"Pain, Inflammation",Erythromycin,No,"As directed, sip slowly"
+493,Azithromycin,100mg,Cholesterol Control,Propranolol,Yes,1 tablet every 6 hrs
+494,Atorvastatin,250mg,"Pain, Inflammation",Human Mixtard,Yes,1 tablet every 6 hrs
+495,ORS Solution,100mg,Throat Infection,Levocetirizine,No,"As directed, sip slowly"
+496,Ciprofloxacin,400mg,Dehydration,Levocetirizine,No,1 tablet daily for 3 days
+497,Metformin,10ml,Asthma,Loratadine,Yes,1 tablet before meals
+498,Salbutamol,400mg,Asthma,Zincovit,No,1 tablet before meals
+499,Amoxicillin,100mg,Cholesterol Control,Electral Powder,Yes,1 capsule every 8 hrs
+500,Ranitidine,10mg,Dehydration,Diclofenac,Yes,1 tablet every 6 hrs
